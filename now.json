@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "coba1",
+    "builds": [
+        { "src": "index.py", "use": "@now/python" }
+    ]
+}
